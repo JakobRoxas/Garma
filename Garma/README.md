@@ -1,4 +1,4 @@
-# A sayla Flet app
+# A Flet app
 
 An example of a minimal Flet app.
 
